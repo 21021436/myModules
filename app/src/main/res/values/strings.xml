@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="c346">C346 Mobile Application Development</string>
+    <string name="c229">C229 Operating Systems and Cloud Computing</string>
+    <string name="c328">C328 Intelligent Networks</string>
+    <string name="c331">C331 Digital Security and Forensics</string>
+    <string name="c203">C203 Web Application Development and PHP</string>
+    <string name="c346CourseName">Mobile Application Development</string>
+    <string name="c229CourseName">Operating Systems and Cloud Computing</string>
+    <string name="c328CourseName">Intelligent Networks</string>
+    <string name="c331CourseName">Digital Security and Forensics</string>
+    <string name="c203CourseName">Web Application Development and PHP</string>
+    <string name="c203Venue">E66R</string>
+    <string name="c331Venue">E62F</string>
+    <string name="c328Venue">E62C</string>
+    <string name="c229Venue">E62G</string>
+    <string name="c346Venue">E62E</string>
+    <string name="module_code">Module Code:</string>
+    <string name="module_name">Module Name:</string>
+    <string name="academic_year">Academic Year:</string>
+    <string name="semester">Semester:</string>
+    <string name="module_credit">Module Credit:</string>
+    <string name="venue">Venue:</string>
+    <string name="back">Back</string>
+</resources>
